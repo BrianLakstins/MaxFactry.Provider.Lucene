@@ -1,0 +1,2 @@
+# MaxFactry.Provider.Lucene
+ 
