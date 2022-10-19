@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "_references", "_references", "{98E74278-96DF-4CF5-A247-9647EE5A9909}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{97D97ECA-B93B-4C51-B0C3-F6D435523736}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaxFactry.Provider.LuceneProvider-NF-4.5.2", "MaxFactry.Provider.LuceneProvider-NF-4.5.2\MaxFactry.Provider.LuceneProvider-NF-4.5.2.csproj", "{5D869C92-3909-466C-B1B1-5DE2ABC34053}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "NuGet", "NuGet", "{9343C2C9-F8D4-41C6-9E7D-8B3FF273293B}"
+	ProjectSection(SolutionItems) = preProject
+		.nuget\MaxFactry.Provider.Lucene.nuspec = .nuget\MaxFactry.Provider.Lucene.nuspec
+		.nuget\package.bat = .nuget\package.bat
+		.nuget\readme.md = .nuget\readme.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D869C92-3909-466C-B1B1-5DE2ABC34053}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D869C92-3909-466C-B1B1-5DE2ABC34053}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D869C92-3909-466C-B1B1-5DE2ABC34053}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D869C92-3909-466C-B1B1-5DE2ABC34053}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{9343C2C9-F8D4-41C6-9E7D-8B3FF273293B} = {98E74278-96DF-4CF5-A247-9647EE5A9909}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DEAF6BAC-0FEF-4CBB-811B-A9A4CD43418A}
+	EndGlobalSection
+EndGlobal
